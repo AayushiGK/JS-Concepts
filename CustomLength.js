@@ -5,8 +5,8 @@ const str = "abcdefg";
 
 String.prototype.printLen = function () {
   const initString = this;
-  let result = 0;
-  for (let i = 0; i < initString.length; i++) result++;
+  let result = -1;
+  for (let s in str) ++result;
   return result;
 };
 const length = str.printLen();
