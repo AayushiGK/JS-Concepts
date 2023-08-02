@@ -1,5 +1,5 @@
-// Debouncing ---> Sending a request after a while when the user stop typing.
-// takes a function that will return a function after certain time-frame
+// Debouncing ---> Sending a request after a while when the user stop typing. takes a function that will return a function after certain time-frame
+
 getData(() => console.log("Debounced"));
 
 const debouncing = function (cb, delay) {
