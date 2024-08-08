@@ -5,32 +5,47 @@ This repository contains various JavaScript concepts, examples, and implementati
 
 ## Table of Contents
 
-[**Intv Questions**](https://github.com/AayushiGK/JS-Concepts/tree/main/Intv%20Questions)
-   - [Closure Example](https://github.com/AayushiGK/JS-Concepts/blob/main/Intv%20Questions/Closure%20Example.js)
-   - [Deep and Shallow Copy](https://github.com/AayushiGK/JS-Concepts/blob/main/Intv%20Questions/Deep%20and%20Shallow%20Copy.js)
-   - [Prototype Example](https://github.com/AayushiGK/JS-Concepts/blob/main/Intv%20Questions/Prototype%20Example.js)
+[**Intv Questions**](https://github.com/AayushiGK/JS-Concepts/tree/master/Intv%20Questions)
+   - [Leader In Array](https://github.com/AayushiGK/JS-Concepts/blob/master/Intv%20Questions/LeadersInArray.js)
+   - Adding more and more
 
-[**arrays**](https://github.com/AayushiGK/JS-Concepts/tree/main/arrayOps)
-   - [Array Push](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/arrayPush.js)
-   - [Array Shift](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/arrayShift.js)
-   - [Array Unshift](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/arrayUnshift.js)
+[**Arrays**](https://github.com/AayushiGK/JS-Concepts/tree/master/arrayOps) 
+   - [Odd Even](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/even-n-odd.js)
+   - [Prime Numbers](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/prime-number.js)
+   - [Unique Numbers](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/unique-number.js)
+   - [Armstrong](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/armstrong.js)
+   - [Factorial](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/factorial.js)
+   - [Fibonacci](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/fibonacci.js)
+   - [Single Datatype Filtering](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/filter-single-datatype.js)
+   - [Leap Year](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/leap-year.js)
+   - [Palindrom](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/palindrom.js)
+   - [Rotate Array](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/rotaate-array.js)
 
-[**conceptual**](https://github.com/AayushiGK/JS-Concepts/tree/main/conceptuals)
-   - [Execution Context](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Execution%20Context.js)
+[**Conceptual**](https://github.com/AayushiGK/JS-Concepts/tree/master/conceptuals)
+   - [Closure](https://github.com/AayushiGK/JS-Concepts/blob/master/conceptuals/closures.js)
    - [Hoisting](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Hoisting.js)
-   - [Scope](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Scope.js)
+   - [Throttling](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/throttling.js)
+   - [Debouncing](https://github.com/AayushiGK/JS-Concepts/blob/master/conceptuals/debouncing.js)
 
-[**patterns**](https://github.com/AayushiGK/JS-Concepts/tree/main/patterns)
-   - [Module Pattern](https://github.com/AayushiGK/JS-Concepts/blob/main/patterns/modulePattern.js)
-   - [Observer Pattern](https://github.com/AayushiGK/JS-Concepts/blob/main/patterns/observerPattern.js)
+[**Patterns**](https://github.com/AayushiGK/JS-Concepts/tree/master/patterns)
+   - [Inverted Pattern](https://github.com/AayushiGK/JS-Concepts/blob/main/patterns/inverted-triangle.js)
+   - [Flatten Array](https://github.com/AayushiGK/JS-Concepts/blob/master/patterns/matrix-flattening.js)
+   - [Triangle Pattern](https://github.com/AayushiGK/JS-Concepts/blob/master/patterns/triangle.js)
 
-[**polyfills**](https://github.com/AayushiGK/JS-Concepts/tree/main/pollyfills)
-   - [Bind Polyfill](https://github.com/AayushiGK/JS-Concepts/blob/main/pollyfills/bindPolyfill.js)
-   - [Map Polyfill](https://github.com/AayushiGK/JS-Concepts/blob/main/pollyfills/mapPolyfill.js)
+[**Pollyfills**](https://github.com/AayushiGK/JS-Concepts/tree/main/pollyfills)
+   - [Bind](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/bind.js)
+   - [Filter](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/filter.js)
+   - [Find](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/find.js)
+   - [Map](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/map.js)
+   - [Reduce](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/reduce.js)
+   - [Length](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/length.js)
 
-[**strings**](https://github.com/AayushiGK/JS-Concepts/tree/main/stringOps)
-   - [String Concat](https://github.com/AayushiGK/JS-Concepts/blob/main/stringOps/stringConcat.js)
-   - [String Split](https://github.com/AayushiGK/JS-Concepts/blob/main/stringOps/stringSplit.js)
+[**Strings**](https://github.com/AayushiGK/JS-Concepts/tree/master/stringOps)
+   - [Contains substring.?](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/contains-substring.js)
+   - [Letters frequency](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/letter-frequency.js)
+   - [Words Frequency](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/words-frequency.js)
+   - [Reverse By Char](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/reverse-chars.js)
+   - [Reverse By Words](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/reverse-sentence.js)
 
 ## Getting Started
 1. Clone the repository.
