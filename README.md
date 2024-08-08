@@ -5,22 +5,22 @@ This repository contains various JavaScript concepts, including examples and imp
 
 ## Folder Structure
 
-- **Intv Questions/**
+- **Intv Questions**
   - Contains common JavaScript interview questions and solutions.
 
-- **arrayOps/**
+- **arrayOps**
   - Examples and operations related to JavaScript arrays.
 
-- **conceptuals/**
+- **conceptuals**
   - Explores various JavaScript concepts, including closures, scopes, and more.
 
-- **patterns/**
+- **patterns**
   - Design patterns and best practices in JavaScript.
 
-- **pollyfills/**
+- **pollyfills**
   - Polyfills for standard JavaScript methods.
 
-- **stringOps/**
+- **stringOps**
   - String operations and manipulations in JavaScript.
 
 ## Getting Started
