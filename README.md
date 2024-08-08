@@ -5,30 +5,30 @@ This repository contains various JavaScript concepts, examples, and implementati
 
 ## Table of Contents
 
-1. [**Intv Questions/**](https://github.com/AayushiGK/JS-Concepts/tree/main/Intv%20Questions)
+[**Intv Questions**](https://github.com/AayushiGK/JS-Concepts/tree/main/Intv%20Questions)
    - [Closure Example](https://github.com/AayushiGK/JS-Concepts/blob/main/Intv%20Questions/Closure%20Example.js)
    - [Deep and Shallow Copy](https://github.com/AayushiGK/JS-Concepts/blob/main/Intv%20Questions/Deep%20and%20Shallow%20Copy.js)
    - [Prototype Example](https://github.com/AayushiGK/JS-Concepts/blob/main/Intv%20Questions/Prototype%20Example.js)
 
-2. [**arrays/**](https://github.com/AayushiGK/JS-Concepts/tree/main/arrayOps)
+[**arrays**](https://github.com/AayushiGK/JS-Concepts/tree/main/arrayOps)
    - [Array Push](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/arrayPush.js)
    - [Array Shift](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/arrayShift.js)
    - [Array Unshift](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/arrayUnshift.js)
 
-3. [**conceptual/**](https://github.com/AayushiGK/JS-Concepts/tree/main/conceptuals)
+[**conceptual**](https://github.com/AayushiGK/JS-Concepts/tree/main/conceptuals)
    - [Execution Context](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Execution%20Context.js)
    - [Hoisting](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Hoisting.js)
    - [Scope](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Scope.js)
 
-4. [**patterns/**](https://github.com/AayushiGK/JS-Concepts/tree/main/patterns)
+[**patterns**](https://github.com/AayushiGK/JS-Concepts/tree/main/patterns)
    - [Module Pattern](https://github.com/AayushiGK/JS-Concepts/blob/main/patterns/modulePattern.js)
    - [Observer Pattern](https://github.com/AayushiGK/JS-Concepts/blob/main/patterns/observerPattern.js)
 
-5. [**polyfills/**](https://github.com/AayushiGK/JS-Concepts/tree/main/pollyfills)
+[**polyfills**](https://github.com/AayushiGK/JS-Concepts/tree/main/pollyfills)
    - [Bind Polyfill](https://github.com/AayushiGK/JS-Concepts/blob/main/pollyfills/bindPolyfill.js)
    - [Map Polyfill](https://github.com/AayushiGK/JS-Concepts/blob/main/pollyfills/mapPolyfill.js)
 
-6. [**strings/**](https://github.com/AayushiGK/JS-Concepts/tree/main/stringOps)
+[**strings**](https://github.com/AayushiGK/JS-Concepts/tree/main/stringOps)
    - [String Concat](https://github.com/AayushiGK/JS-Concepts/blob/main/stringOps/stringConcat.js)
    - [String Split](https://github.com/AayushiGK/JS-Concepts/blob/main/stringOps/stringSplit.js)
 
