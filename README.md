@@ -5,10 +5,6 @@ This repository contains various JavaScript concepts, examples, and implementati
 
 ## Table of Contents
 
-[**Intv Questions**](https://github.com/AayushiGK/JS-Concepts/tree/master/Intv%20Questions)
-   - [Leader In Array](https://github.com/AayushiGK/JS-Concepts/blob/master/Intv%20Questions/LeadersInArray.js)
-   - Adding more and more
-
 [**Arrays**](https://github.com/AayushiGK/JS-Concepts/tree/master/arrayOps) 
    - [Odd Even](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/even-n-odd.js)
    - [Prime Numbers](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/prime-number.js)
@@ -21,11 +17,13 @@ This repository contains various JavaScript concepts, examples, and implementati
    - [Palindrom](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/palindrom.js)
    - [Rotate Array](https://github.com/AayushiGK/JS-Concepts/blob/main/arrayOps/rotaate-array.js)
 
-[**Conceptual**](https://github.com/AayushiGK/JS-Concepts/tree/master/conceptuals)
-   - [Closure](https://github.com/AayushiGK/JS-Concepts/blob/master/conceptuals/closures.js)
-   - [Hoisting](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Hoisting.js)
-   - [Throttling](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/throttling.js)
-   - [Debouncing](https://github.com/AayushiGK/JS-Concepts/blob/master/conceptuals/debouncing.js)
+
+[**Strings**](https://github.com/AayushiGK/JS-Concepts/tree/master/stringOps)
+   - [Contains substring.?](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/contains-substring.js)
+   - [Letters frequency](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/letter-frequency.js)
+   - [Words Frequency](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/words-frequency.js)
+   - [Reverse By Char](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/reverse-chars.js)
+   - [Reverse By Words](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/reverse-sentence.js)
 
 [**Patterns**](https://github.com/AayushiGK/JS-Concepts/tree/master/patterns)
    - [Inverted Pattern](https://github.com/AayushiGK/JS-Concepts/blob/main/patterns/inverted-triangle.js)
@@ -40,12 +38,15 @@ This repository contains various JavaScript concepts, examples, and implementati
    - [Reduce](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/reduce.js)
    - [Length](https://github.com/AayushiGK/JS-Concepts/blob/master/pollyfills/length.js)
 
-[**Strings**](https://github.com/AayushiGK/JS-Concepts/tree/master/stringOps)
-   - [Contains substring.?](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/contains-substring.js)
-   - [Letters frequency](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/letter-frequency.js)
-   - [Words Frequency](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/words-frequency.js)
-   - [Reverse By Char](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/reverse-chars.js)
-   - [Reverse By Words](https://github.com/AayushiGK/JS-Concepts/blob/master/stringOps/reverse-sentence.js)
+[**Conceptual**](https://github.com/AayushiGK/JS-Concepts/tree/master/conceptuals)
+   - [Closure](https://github.com/AayushiGK/JS-Concepts/blob/master/conceptuals/closures.js)
+   - [Hoisting](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/Hoisting.js)
+   - [Throttling](https://github.com/AayushiGK/JS-Concepts/blob/main/conceptuals/throttling.js)
+   - [Debouncing](https://github.com/AayushiGK/JS-Concepts/blob/master/conceptuals/debouncing.js)
+     
+[**Intv Questions**](https://github.com/AayushiGK/JS-Concepts/tree/master/Intv%20Questions)
+   - [Leader In Array](https://github.com/AayushiGK/JS-Concepts/blob/master/Intv%20Questions/LeadersInArray.js)
+   - Adding more and more
 
 ## Getting Started
 1. Clone the repository.
