@@ -11,3 +11,23 @@ console.log(isElementOdd); // [ true, false, true, false, true, false ]
 
 const oddNumberOnly = arr.filter((n) => n % 2);
 console.log(oddNumberOnly); // [ 1, 3, 5 ]
+
+// even-odd
+const evenOdd = (number) => {
+  return number % 2 === 0;
+};
+console.log(evenOdd(87654));
+
+const onlyEven = (arrays) =>
+  arrays.reduce((acc, digit) => {
+    if (digit % 2 === 0) acc.push(digit);
+    return acc;
+  }, []);
+console.log(onlyEven(arr));
+
+const onlyOdd = (arrays) =>
+  arrays.reduce((acc, digit) => {
+    if (digit % 2 !== 0) acc.push(digit);
+    return acc;
+  }, []);
+console.log(onlyOdd(arr));

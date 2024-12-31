@@ -12,5 +12,14 @@ const isArmstrong = function (number) {
 
   return sum == number ? true : false;
 };
+console.log("With loop : Armstrong", isArmstrong(1634));
 
-console.log(isArmstrong(1634));
+const armstrong_ViaReduce = (number) => {
+  return (
+    [...number.toString()].reduce((acc, digit) => {
+      return acc + digit * digit * digit;
+      // return acc + Math.pow(digit, `${number}`.length);
+    }, 0) === number
+  );
+};
+console.log("With reduce : Armstrong", armstrong_ViaReduce(370));
